@@ -12,4 +12,4 @@ module.exports = `<?xml version="1.0" standalone="no"?>
     <text x="50%" y="50%" alignment-baseline="central" dominant-baseline="central" text-anchor="middle" fill="#fff" font-family="sans-serif" font-size="$FONTSIZE">$TEXT</text>
   </g>
 </svg>
-`
+`;
