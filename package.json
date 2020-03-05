@@ -11,7 +11,7 @@
   "license": "MIT",
   "dependencies": {
     "color": "^2.0.0",
-    "micro": "^8.0.1",
+    "micro": "^9.3.4",
     "sharp": "^0.24.1",
     "url": "^0.11.0"
   },
