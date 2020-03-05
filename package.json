@@ -16,6 +16,6 @@
     "url": "^0.11.0"
   },
   "devDependencies": {
-    "micro-dev": "^1.1.0"
+    "micro-dev": "^2.2.2"
   }
 }
